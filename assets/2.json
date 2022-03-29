@@ -1,0 +1,19 @@
+{
+    "name": "Evil Zane",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "H9oggSRnG2waCQUxREQPAqXatDPmCe3j4aYngng4gBaQ",
+          "share": 100
+        }
+      ]
+    }
+  }

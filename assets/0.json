@@ -1,0 +1,19 @@
+{
+    "name": "Neos",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "H9oggSRnG2waCQUxREQPAqXatDPmCe3j4aYngng4gBaQ",
+          "share": 100
+        }
+      ]
+    }
+  }
